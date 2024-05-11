@@ -16,7 +16,7 @@
 ## How to Play
 
 1. **Login**: Enter your username and password to access the game.  [Default Pass word is '1234'], and [Default User are admin, Admin, user]
-   ##Note : You can add username by changing the username List 'UsernameList', and default password with Default_password
+   ## Note : You can add username by changing the username List 'UsernameList', and default password with 'Default_password';
 3. **Answer Questions**: Answer multiple-choice questions displayed on the screen.
 4. **Win Money**: Earn money for each correct answer. The amount increases with each correct response.
 5. **End of Game**: When all questions are answered, the game concludes, and your total earnings are displayed.
