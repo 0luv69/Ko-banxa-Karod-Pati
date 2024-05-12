@@ -32,6 +32,19 @@ python Ko_Bancha_Karod_Pati.py
 ## Customization
 
 - **Questions and Answers**: Add or modify questions and answer options in the `Question` list within the code.
+
+### Format:
+```bash
+Question = [
+    {
+        "Que": "Question here ?",
+        "options": ["A) option 1", "B) option", "C) option", "D) option"],
+        "answer": "0"
+    },
+```
+
+
+
 - **Username and Password**: Adjust the list of usernames and password in the `UsernameList` variable to control access to the game.
 - **User Interface**: Customize the appearance of the game window and widgets using Tkinter attributes.
 
